@@ -1,0 +1,12 @@
+{
+  "name": "checkbox-tree",
+  "version": "3.3.50",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.0.1"
+  },
+  "devDependencies": {
+    "@open-wc/testing-helpers": "^0.7.6"
+  }
+}
